@@ -1,4 +1,4 @@
-# Sistema de Cinema - DEV_MANHA
+# Sistema de Cinema - .NET/SQLSERVER
 
 Sistema simples para gerenciar **filmes** e **sessões** de cinema, desenvolvido em **C#** utilizando **POO** e **SQL Server**.  
 
